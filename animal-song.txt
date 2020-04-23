@@ -4,3 +4,4 @@ Elephants
 Dolphins
 Horses
 Penguins 
+Capybara 
